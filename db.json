@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Formula 1 Shake",
+            "price": "1,996.00",
+            "VP": 21.75
+        },
+        {
+            "id": 2,
+            "name": "Afresh",
+            "price": "744.00",
+            "VP": 7.8
+        },
+        {
+            "id": 3,
+            "name": "Afresh Tulsi",
+            "price": "744.00",
+            "VP": 7.8
+        },
+        {
+            "id": 4,
+            "name": "Protien Powder 200g",
+            "price": "1,185.00",
+            "VP": 11.5
+        },
+        {
+            "id": 5,
+            "name": "Protien Powder 400g",
+            "price": "2,276.00",
+            "VP": 22.5
+        },
+        {
+            "id": 6,
+            "name": "Shake Mate",
+            "price": "598.00",
+            "VP": 6.45
+        },
+        {
+            "id": 7,
+            "name": "Protien Bite Chocolate",
+            "price": "590.00",
+            "VP": 4.85
+        },
+        {
+            "id": 8,
+            "name": "Dinoshake",
+            "price": "1,021.00",
+            "VP": 9.6
+        }
+    ]
+}
